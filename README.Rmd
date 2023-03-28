@@ -1,6 +1,4 @@
----
-title: "README"
-output: html_document
----
-
 This repository has been moved to https://github.com/FundyPhytoPhys/ROS_bioinfo.
+
+Data pertaining to the paper Diffusional Interactions Across Marine Phytoplankton; Modelling H2O2 as a case study can be found on https://github.com/FundyPhytoPhys/ROS_bioinfo/tree/master/DiffusionalInteractionsAmongMarinePhytoplanktonModellingH2O2CaseStudy
+
